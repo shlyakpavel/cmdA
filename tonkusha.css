@@ -1,0 +1,8 @@
+body{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#88bfe8+0,7fffd8+100,70b0e0+100 */
+background: rgb(136,191,232); /* Old browsers */
+background: -moz-linear-gradient(left,  rgba(136,191,232,1) 0%, rgba(127,255,216,1) 100%, rgba(112,176,224,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  rgba(136,191,232,1) 0%,rgba(127,255,216,1) 100%,rgba(112,176,224,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  rgba(136,191,232,1) 0%,rgba(127,255,216,1) 100%,rgba(112,176,224,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#88bfe8', endColorstr='#70b0e0',GradientType=1 ); /* IE6-9 */
+text-align:center}}
